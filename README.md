@@ -1,2 +1,2 @@
 # MuseumMania
-Unity (2022.3.15f1)
+Versión del editor de Unity usada: Unity (2022.3.15f1)
